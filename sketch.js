@@ -10,7 +10,7 @@ function setup() {
 }
 let xBolinha = 300;
 let yBolinha = 200 ;
-let diametro = 20;
+let diametro = 50;
 let raio= diametro/2;
 let velocidadexBolinha= 5;
 let velocidadeyBolinha = 5;
